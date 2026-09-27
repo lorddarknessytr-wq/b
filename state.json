@@ -895,7 +895,8 @@
       "caa38848",
       "fd604bde",
       "b2505ff0",
-      "725e15b3"
+      "725e15b3",
+      "a4c398e0"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "95cceb26",
@@ -923,7 +924,8 @@
       "364c0992",
       "b5017f2d",
       "fd604bde",
-      "32da9730"
+      "32da9730",
+      "e543c423"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "f1f90763",
@@ -951,7 +953,8 @@
       "7f1e9bce",
       "bd4b2f6e",
       "8f39a200",
-      "5736770f"
+      "5736770f",
+      "6f144e86"
     ]
   },
   "used_videos_per_channel": {
@@ -963,7 +966,8 @@
       "ea8ca5a5",
       "2a4d7cca",
       "59094955",
-      "f50d0e3b"
+      "f50d0e3b",
+      "8fdb78e8"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "6ed39e93",
@@ -974,7 +978,8 @@
       "7d44e4dd",
       "068750b1",
       "f50d0e3b",
-      "fefb12c0"
+      "fefb12c0",
+      "2545ec3e"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "ea8ca5a5",
@@ -985,7 +990,8 @@
       "fefb12c0",
       "7d44e4dd",
       "8a5977a6",
-      "8ef1fc5c"
+      "8ef1fc5c",
+      "d5f79ea6"
     ]
   },
   "channel_activated": {
@@ -1009,7 +1015,7 @@
     "hours": []
   },
   "sent_log": {
-    "heartbeat": "2026-09-26 23:45"
+    "heartbeat": "2026-09-27 09:00"
   },
   "errors": [
     {
@@ -1459,70 +1465,16 @@
     ]
   },
   "posted_slots_today": {
-    "date": "2026-09-26",
+    "date": "2026-09-27",
     "mod": {
       "c0CuSok06a844f1e58208239a94a22c8:0": true,
       "c0CqedK0e54490bb6d949332ff624132:0": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:0": true,
-      "c0CuSok06a844f1e58208239a94a22c8:1": true,
-      "c0CqedK0e54490bb6d949332ff624132:1": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:1": true,
-      "c0CuSok06a844f1e58208239a94a22c8:2": true,
-      "c0CqedK0e54490bb6d949332ff624132:2": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:2": true,
-      "c0CuSok06a844f1e58208239a94a22c8:3": true,
-      "c0CqedK0e54490bb6d949332ff624132:3": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:3": true,
-      "c0CuSok06a844f1e58208239a94a22c8:4": true,
-      "c0CqedK0e54490bb6d949332ff624132:4": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:4": true,
-      "c0CuSok06a844f1e58208239a94a22c8:5": true,
-      "c0CqedK0e54490bb6d949332ff624132:5": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:5": true,
-      "c0CuSok06a844f1e58208239a94a22c8:6": true,
-      "c0CqedK0e54490bb6d949332ff624132:6": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:6": true,
-      "c0CuSok06a844f1e58208239a94a22c8:7": true,
-      "c0CqedK0e54490bb6d949332ff624132:7": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:7": true,
-      "c0CuSok06a844f1e58208239a94a22c8:8": true,
-      "c0CqedK0e54490bb6d949332ff624132:8": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:8": true,
-      "c0CuSok06a844f1e58208239a94a22c8:9": true,
-      "c0CqedK0e54490bb6d949332ff624132:9": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:9": true,
-      "c0CuSok06a844f1e58208239a94a22c8:10": true,
-      "c0CqedK0e54490bb6d949332ff624132:10": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:10": true,
-      "c0CuSok06a844f1e58208239a94a22c8:11": true,
-      "c0CqedK0e54490bb6d949332ff624132:11": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:11": true,
-      "c0CuSok06a844f1e58208239a94a22c8:12": true,
-      "c0CqedK0e54490bb6d949332ff624132:12": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:12": true,
-      "c0CuSok06a844f1e58208239a94a22c8:13": true,
-      "c0CqedK0e54490bb6d949332ff624132:13": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:13": true,
-      "c0CuSok06a844f1e58208239a94a22c8:14": true,
-      "c0CqedK0e54490bb6d949332ff624132:14": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:14": true
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:0": true
     },
     "video": {
       "c0CuSok06a844f1e58208239a94a22c8:0": true,
       "c0CqedK0e54490bb6d949332ff624132:0": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:0": true,
-      "c0CuSok06a844f1e58208239a94a22c8:1": true,
-      "c0CqedK0e54490bb6d949332ff624132:1": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:1": true,
-      "c0CuSok06a844f1e58208239a94a22c8:2": true,
-      "c0CqedK0e54490bb6d949332ff624132:2": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:2": true,
-      "c0CuSok06a844f1e58208239a94a22c8:3": true,
-      "c0CqedK0e54490bb6d949332ff624132:3": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:3": true,
-      "c0CuSok06a844f1e58208239a94a22c8:4": true,
-      "c0CqedK0e54490bb6d949332ff624132:4": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:4": true
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:0": true
     }
   },
   "owner_keypad_set": true
