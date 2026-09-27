@@ -870,115 +870,13 @@
   "recent_files": {},
   "used_mods_per_channel": {
     "c0CuSok06a844f1e58208239a94a22c8": [
-      "2b4bf75f",
-      "364c0992",
-      "b31ab3b6",
-      "e168c08c",
-      "a56937a1",
-      "762df111",
-      "e543c423",
-      "d870d600",
-      "f1f90763",
-      "703508c5",
-      "95cceb26",
-      "656ce838",
-      "4688452b",
-      "42f85575",
-      "5736770f",
-      "90d49175",
-      "dbb87efb",
-      "6a916c4b",
-      "cc4992ed",
-      "3732827a",
-      "88ad3b2a",
-      "6f144e86",
-      "caa38848",
-      "fd604bde",
-      "b2505ff0",
-      "725e15b3",
-      "a4c398e0",
-      "bd372002",
-      "36d9e790",
-      "b5017f2d",
-      "7f1e9bce",
-      "32da9730",
-      "8f39a200",
-      "329755c0",
-      "bd4b2f6e"
+      "32da9730"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
-      "95cceb26",
-      "a56937a1",
-      "f1f90763",
-      "6a916c4b",
-      "90d49175",
-      "725e15b3",
-      "d870d600",
-      "762df111",
-      "3732827a",
-      "bd372002",
-      "656ce838",
-      "703508c5",
-      "7f1e9bce",
-      "cc4992ed",
-      "bd4b2f6e",
-      "2b4bf75f",
-      "dbb87efb",
-      "36d9e790",
-      "8f39a200",
-      "329755c0",
-      "e168c08c",
-      "caa38848",
-      "364c0992",
-      "b5017f2d",
-      "fd604bde",
-      "32da9730",
-      "e543c423",
-      "6f144e86",
-      "b31ab3b6",
-      "a4c398e0",
-      "4688452b",
-      "b2505ff0",
-      "5736770f",
-      "88ad3b2a",
-      "42f85575"
+      "4688452b"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
-      "f1f90763",
-      "36d9e790",
-      "90d49175",
-      "d870d600",
-      "42f85575",
-      "725e15b3",
-      "88ad3b2a",
-      "bd372002",
-      "caa38848",
-      "cc4992ed",
-      "703508c5",
-      "32da9730",
-      "656ce838",
-      "6a916c4b",
-      "e168c08c",
-      "dbb87efb",
-      "b5017f2d",
-      "95cceb26",
-      "329755c0",
-      "fd604bde",
-      "e543c423",
-      "4688452b",
-      "7f1e9bce",
-      "bd4b2f6e",
-      "8f39a200",
-      "5736770f",
-      "6f144e86",
-      "b2505ff0",
-      "364c0992",
-      "b31ab3b6",
-      "2b4bf75f",
-      "a4c398e0",
-      "762df111",
-      "3732827a",
-      "a56937a1"
+      "5736770f"
     ]
   },
   "used_videos_per_channel": {
@@ -993,7 +891,8 @@
       "f50d0e3b",
       "8fdb78e8",
       "86794b21",
-      "ac5a4dae"
+      "ac5a4dae",
+      "a430a188"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "6ed39e93",
@@ -1007,7 +906,8 @@
       "fefb12c0",
       "2545ec3e",
       "19af82e7",
-      "2a4d7cca"
+      "2a4d7cca",
+      "8a5977a6"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "ea8ca5a5",
@@ -1021,7 +921,8 @@
       "8ef1fc5c",
       "d5f79ea6",
       "b255a1fb",
-      "42fa47ff"
+      "42fa47ff",
+      "8fdb78e8"
     ]
   },
   "channel_activated": {
@@ -1045,7 +946,7 @@
     "hours": []
   },
   "sent_log": {
-    "heartbeat": "2026-09-27 17:45"
+    "heartbeat": "2026-09-27 18:00"
   },
   "errors": [
     {
@@ -1530,7 +1431,10 @@
       "c0DpOuK09d14c5817e0aaf7d4ed92e2b:7": true,
       "c0CuSok06a844f1e58208239a94a22c8:8": true,
       "c0CqedK0e54490bb6d949332ff624132:8": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:8": true
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:8": true,
+      "c0CuSok06a844f1e58208239a94a22c8:9": true,
+      "c0CqedK0e54490bb6d949332ff624132:9": true,
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:9": true
     },
     "video": {
       "c0CuSok06a844f1e58208239a94a22c8:0": true,
@@ -1540,7 +1444,10 @@
       "c0CqedK0e54490bb6d949332ff624132:1": true,
       "c0CuSok06a844f1e58208239a94a22c8:2": true,
       "c0CqedK0e54490bb6d949332ff624132:2": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:2": true
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:2": true,
+      "c0CuSok06a844f1e58208239a94a22c8:3": true,
+      "c0CqedK0e54490bb6d949332ff624132:3": true,
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:3": true
     }
   },
   "owner_keypad_set": true
