@@ -1178,7 +1178,8 @@
       "e543c423",
       "4688452b",
       "2b4bf75f",
-      "364c0992"
+      "364c0992",
+      "bd4b2f6e"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "4688452b",
@@ -1189,7 +1190,8 @@
       "32da9730",
       "9060e58f",
       "8f39a200",
-      "95cceb26"
+      "95cceb26",
+      "e543c423"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "5736770f",
@@ -1200,7 +1202,8 @@
       "703508c5",
       "2f6a0cbe",
       "caa38848",
-      "6f144e86"
+      "6f144e86",
+      "bd372002"
     ]
   },
   "used_videos_per_channel": {
@@ -1218,7 +1221,8 @@
       "ac5a4dae",
       "a430a188",
       "6ed39e93",
-      "42fa47ff"
+      "42fa47ff",
+      "b255a1fb"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "6ed39e93",
@@ -1235,7 +1239,8 @@
       "2a4d7cca",
       "8a5977a6",
       "d5f79ea6",
-      "86794b21"
+      "86794b21",
+      "a430a188"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "ea8ca5a5",
@@ -1252,7 +1257,8 @@
       "42fa47ff",
       "8fdb78e8",
       "e6de9fd8",
-      "6ed39e93"
+      "6ed39e93",
+      "a430a188"
     ]
   },
   "channel_activated": {
@@ -1276,7 +1282,7 @@
     "hours": []
   },
   "sent_log": {
-    "heartbeat": "2026-09-28 11:45"
+    "heartbeat": "2026-09-28 12:00"
   },
   "errors": [
     {
@@ -1586,9 +1592,16 @@
       "category": "ارسال به Barbarii_mod",
       "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: آپلود مجدد جواب معتبر نداد: {'status': 'SERVER_ERROR'}",
       "notified": true
+    },
+    {
+      "id": "78ef3e",
+      "time": "2026-09-28 12:02",
+      "category": "ارسال به Amo_Heydar2",
+      "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: آپلود مجدد جواب معتبر نداد: {'status': 'SERVER_ERROR'}",
+      "notified": true
     }
   ],
-  "last_error_notify_time": "2026-09-27 12:02",
+  "last_error_notify_time": "2026-09-28 12:04",
   "bug_page_offset": 10,
   "pending_file_requests": {},
   "processed_updates": [
@@ -1773,12 +1786,17 @@
       "c0DpOuK09d14c5817e0aaf7d4ed92e2b:1": true,
       "c0CuSok06a844f1e58208239a94a22c8:2": true,
       "c0CqedK0e54490bb6d949332ff624132:2": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:2": true
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:2": true,
+      "c0CuSok06a844f1e58208239a94a22c8:3": true,
+      "c0CqedK0e54490bb6d949332ff624132:3": true,
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:3": true
     },
     "video": {
       "c0CuSok06a844f1e58208239a94a22c8:0": true,
       "c0CqedK0e54490bb6d949332ff624132:0": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:0": true
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:0": true,
+      "c0CqedK0e54490bb6d949332ff624132:1": true,
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:1": true
     }
   },
   "owner_keypad_set": true
