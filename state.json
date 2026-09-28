@@ -1186,7 +1186,8 @@
       "2f6a0cbe",
       "5736770f",
       "6f144e86",
-      "b31ab3b6"
+      "b31ab3b6",
+      "b2505ff0"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "4688452b",
@@ -1205,7 +1206,8 @@
       "8dcf17b7",
       "b5017f2d",
       "b31ab3b6",
-      "f1f90763"
+      "f1f90763",
+      "b2505ff0"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "5736770f",
@@ -1224,7 +1226,8 @@
       "8dcf17b7",
       "21566eaf",
       "8f39a200",
-      "f2d4a8e9"
+      "f2d4a8e9",
+      "95cceb26"
     ]
   },
   "used_videos_per_channel": {
@@ -1245,7 +1248,8 @@
       "42fa47ff",
       "b255a1fb",
       "7d44e4dd",
-      "19af82e7"
+      "19af82e7",
+      "fefb12c0"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "6ed39e93",
@@ -1285,7 +1289,8 @@
       "6ed39e93",
       "a430a188",
       "2545ec3e",
-      "19af82e7"
+      "19af82e7",
+      "86794b21"
     ]
   },
   "channel_activated": {
@@ -1309,7 +1314,7 @@
     "hours": []
   },
   "sent_log": {
-    "heartbeat": "2026-09-28 20:45"
+    "heartbeat": "2026-09-28 21:00"
   },
   "errors": [
     {
@@ -1633,9 +1638,16 @@
       "category": "ارسال به BarBarii_y",
       "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: آپلود مجدد جواب معتبر نداد: {'status': 'SERVER_ERROR'}",
       "notified": true
+    },
+    {
+      "id": "7c387b",
+      "time": "2026-09-28 21:03",
+      "category": "ارسال به BarBarii_y",
+      "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: آپلود مجدد جواب معتبر نداد: {'status': 'INVALID_INPUT', 'dev_message': 'Invalid format for image file'}",
+      "notified": true
     }
   ],
-  "last_error_notify_time": "2026-09-28 15:03",
+  "last_error_notify_time": "2026-09-28 21:05",
   "bug_page_offset": 10,
   "pending_file_requests": {},
   "processed_updates": [
@@ -1844,7 +1856,9 @@
       "c0DpOuK09d14c5817e0aaf7d4ed92e2b:10": true,
       "c0CuSok06a844f1e58208239a94a22c8:11": true,
       "c0CqedK0e54490bb6d949332ff624132:11": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:11": true
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:11": true,
+      "c0CuSok06a844f1e58208239a94a22c8:12": true,
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:12": true
     },
     "video": {
       "c0CuSok06a844f1e58208239a94a22c8:0": true,
@@ -1856,7 +1870,9 @@
       "c0DpOuK09d14c5817e0aaf7d4ed92e2b:2": true,
       "c0CuSok06a844f1e58208239a94a22c8:3": true,
       "c0CqedK0e54490bb6d949332ff624132:3": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:3": true
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:3": true,
+      "c0CuSok06a844f1e58208239a94a22c8:4": true,
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:4": true
     }
   },
   "owner_keypad_set": true
