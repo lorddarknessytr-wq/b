@@ -1191,7 +1191,8 @@
       "a56937a1",
       "329755c0",
       "dbb87efb",
-      "6a916c4b"
+      "6a916c4b",
+      "42f85575"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "4688452b",
@@ -1215,7 +1216,8 @@
       "703508c5",
       "76400462",
       "b8060156",
-      "42f85575"
+      "42f85575",
+      "0a82ac83"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "5736770f",
@@ -1239,7 +1241,8 @@
       "dbb87efb",
       "36d9e790",
       "df0c2197",
-      "020f2400"
+      "020f2400",
+      "4688452b"
     ]
   },
   "used_videos_per_channel": {
@@ -1262,7 +1265,8 @@
       "7d44e4dd",
       "19af82e7",
       "fefb12c0",
-      "8a5977a6"
+      "8a5977a6",
+      "068750b1"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "6ed39e93",
@@ -1283,29 +1287,11 @@
       "a430a188",
       "b255a1fb",
       "ac5a4dae",
-      "8ef1fc5c"
+      "8ef1fc5c",
+      "8fdb78e8"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
-      "ea8ca5a5",
-      "ac5a4dae",
-      "f50d0e3b",
-      "068750b1",
-      "2a4d7cca",
-      "fefb12c0",
-      "7d44e4dd",
-      "8a5977a6",
-      "8ef1fc5c",
-      "d5f79ea6",
-      "b255a1fb",
-      "42fa47ff",
-      "8fdb78e8",
-      "e6de9fd8",
-      "6ed39e93",
-      "a430a188",
-      "2545ec3e",
-      "19af82e7",
-      "86794b21",
-      "59094955"
+      "2a4d7cca"
     ]
   },
   "channel_activated": {
@@ -1329,7 +1315,7 @@
     "hours": []
   },
   "sent_log": {
-    "heartbeat": "2026-09-29 11:45"
+    "heartbeat": "2026-09-29 12:00"
   },
   "errors": [
     {
@@ -1847,12 +1833,18 @@
       "c0DpOuK09d14c5817e0aaf7d4ed92e2b:1": true,
       "c0CuSok06a844f1e58208239a94a22c8:2": true,
       "c0CqedK0e54490bb6d949332ff624132:2": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:2": true
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:2": true,
+      "c0CuSok06a844f1e58208239a94a22c8:3": true,
+      "c0CqedK0e54490bb6d949332ff624132:3": true,
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:3": true
     },
     "video": {
       "c0CuSok06a844f1e58208239a94a22c8:0": true,
       "c0CqedK0e54490bb6d949332ff624132:0": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:0": true
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:0": true,
+      "c0CuSok06a844f1e58208239a94a22c8:1": true,
+      "c0CqedK0e54490bb6d949332ff624132:1": true,
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:1": true
     }
   },
   "owner_keypad_set": true
