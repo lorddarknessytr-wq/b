@@ -1203,7 +1203,8 @@
       "48abb6ef",
       "020f2400",
       "2de5c8b1",
-      "21566eaf"
+      "21566eaf",
+      "c1f468f1"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "4688452b",
@@ -1239,7 +1240,8 @@
       "36d9e790",
       "725e15b3",
       "3732827a",
-      "5736770f"
+      "5736770f",
+      "d870d600"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "5736770f",
@@ -1275,7 +1277,8 @@
       "2de5c8b1",
       "762df111",
       "f1f90763",
-      "656ce838"
+      "656ce838",
+      "48abb6ef"
     ]
   },
   "used_videos_per_channel": {
@@ -1317,7 +1320,7 @@
     "hours": []
   },
   "sent_log": {
-    "heartbeat": "2026-09-30 09:00"
+    "heartbeat": "2026-09-30 10:54"
   },
   "errors": [
     {
@@ -1690,9 +1693,44 @@
       "category": "ارسال به Barbarii_mod",
       "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: HTTPSConnectionPool(host='botapi.rubika.ir', port=443): Max retries exceeded with url: /v3/CEJJBJ0CDXHONITGFYJFUJVFAHBTPVVRTBFBBXXUJWZHMGMYZKADAYNMPFIFYQDY/getFile (Caused by ConnectTimeoutError(<HTTPSConnection(host='botapi.rubika.ir',",
       "notified": true
+    },
+    {
+      "id": "20ea07",
+      "time": "2026-09-30 10:59",
+      "category": "تست اتصال (getMe)",
+      "message": "HTTPSConnectionPool(host='botapi.rubika.ir', port=443): Max retries exceeded with url: /v3/CEJJBJ0CDXHONITGFYJFUJVFAHBTPVVRTBFBBXXUJWZHMGMYZKADAYNMPFIFYQDY/getMe (Caused by ConnectTimeoutError(<HTTPSConnection(host='botapi.rubika.ir', port=443) at 0x7f72e6de6b50>, 'Connection to botapi.rubika.ir tim",
+      "notified": true
+    },
+    {
+      "id": "cf07d5",
+      "time": "2026-09-30 11:04",
+      "category": "دریافت آپدیت‌ها",
+      "message": "HTTPSConnectionPool(host='botapi.rubika.ir', port=443): Max retries exceeded with url: /v3/CEJJBJ0CDXHONITGFYJFUJVFAHBTPVVRTBFBBXXUJWZHMGMYZKADAYNMPFIFYQDY/getUpdates (Caused by ConnectTimeoutError(<HTTPSConnection(host='botapi.rubika.ir', port=443) at 0x7f72e6c00250>, 'Connection to botapi.rubika.i",
+      "notified": true
+    },
+    {
+      "id": "98118a",
+      "time": "2026-09-30 11:18",
+      "category": "ارسال به Amo_Heydar2",
+      "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: HTTPSConnectionPool(host='botapi.rubika.ir', port=443): Max retries exceeded with url: /v3/CEJJBJ0CDXHONITGFYJFUJVFAHBTPVVRTBFBBXXUJWZHMGMYZKADAYNMPFIFYQDY/getFile (Caused by ConnectTimeoutError(<HTTPSConnection(host='botapi.rubika.ir',",
+      "notified": true
+    },
+    {
+      "id": "a37f3a",
+      "time": "2026-09-30 11:32",
+      "category": "ارسال به BarBarii_y",
+      "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: HTTPSConnectionPool(host='botapi.rubika.ir', port=443): Max retries exceeded with url: /v3/CEJJBJ0CDXHONITGFYJFUJVFAHBTPVVRTBFBBXXUJWZHMGMYZKADAYNMPFIFYQDY/getFile (Caused by ConnectTimeoutError(<HTTPSConnection(host='botapi.rubika.ir',",
+      "notified": true
+    },
+    {
+      "id": "9c2cb4",
+      "time": "2026-09-30 11:46",
+      "category": "ارسال به Barbarii_mod",
+      "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: HTTPSConnectionPool(host='botapi.rubika.ir', port=443): Max retries exceeded with url: /v3/CEJJBJ0CDXHONITGFYJFUJVFAHBTPVVRTBFBBXXUJWZHMGMYZKADAYNMPFIFYQDY/getFile (Caused by ConnectTimeoutError(<HTTPSConnection(host='botapi.rubika.ir',",
+      "notified": true
     }
   ],
-  "last_error_notify_time": "2026-09-30 09:52",
+  "last_error_notify_time": "2026-09-30 11:46",
   "bug_page_offset": 15,
   "pending_file_requests": {},
   "processed_updates": [
